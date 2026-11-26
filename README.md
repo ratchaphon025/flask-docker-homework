@@ -6,15 +6,18 @@
 
 ## 1. Web Server
 
-โฟลเดอร์: `tcp_echo_server/`
+โฟลเดอร์: `simple-web-server/`
 
 **ผลการทดลอง:**
 
-(<img width="715" height="75" alt="image" src="https://github.com/user-attachments/assets/e0bd7e86-4bf7-4912-ad8d-9cbd6b157f10" />)
+<img width="1919" height="1079" alt="Screenshot 2026-11-26 101641" src="https://github.com/user-attachments/assets/5b983bb6-54c5-4538-9ac3-34ed089e7d1c" />
+<img width="1919" height="1069" alt="Screenshot 2026-11-26 094138" src="https://github.com/user-attachments/assets/15f2d79c-2f16-4d3e-9c70-b016be9eb661" />
+<img width="1919" height="1079" alt="Screenshot 2026-11-26 102436" src="https://github.com/user-attachments/assets/d4b9e5e2-16a7-4666-986c-c35acbe3567a" />
+
 
 ## 2. การสร้าง UDP Client และ Server ด้วย Python และ Docker
 
-โฟลเดอร์: `udp_server_test/`
+โฟลเดอร์: `udp-communication/`
 
 **ผลการทดลอง:**
 
